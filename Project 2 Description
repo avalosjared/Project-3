@@ -1,0 +1,9 @@
+# Project-3
+The purpose of this code was to be able to express the amount of potential buyers that would purchase a random amount of soda products within a variety of different stores.
+The project consists of the following:
+- Showing the most frequently purchased items from customers.
+- The frequency of customers who were the largest buyers within respective stores with listing the mixed and matched soda combination purchased items.
+- Supporting the previous point, the following output was to sort the stores that had the largest purchasing customers.
+- A visualization is used to display the outlook by frequency of the top ranking largest buying customers
+- Within this set of ranking customers, a top-n list of the purchased products are listed, in this case it was top 10 to showcase the common items bought by customers.
+- Using a categorical approach of the above ranking customers, a visualization was formatted to display the top 5 combinations of purchased items.

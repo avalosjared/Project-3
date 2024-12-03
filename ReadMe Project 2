@@ -11,4 +11,9 @@ The project consists of the following:
     Within this set of ranking customers, a top-n list of the purchased products are listed, in this case it was top 10 to showcase the common items bought by customers.
     Using a categorical approach of the above ranking customers, a visualization was formatted to display the top 5 combinations of purchased items.
 
-Overall the 
+Overall the main objective was to be able to take a simulation of the previous project's csv file and use that information
+of randomized data that was in real time and use that to be able to showcase the intent of customers purchasing their respective
+items available in the store. 
+From formatting the most frequently purchased items, to the use of a visualization of the customer combination of items purchased,
+this project is a clear way to be able to understand how a business-like visual works with all this data coming in from many stores
+into a corporation.

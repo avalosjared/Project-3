@@ -1,3 +1,13 @@
 # Project 3
 
 This project's purpose was a way to implement the introductory of the foundation of the most frequent customers purchasing soda products as this project listed the csv file information of randomized customers and items.
+The main focus of the output was:
+  Listing the product with a respected name and price of the purchased item.
+  The order itself that compacted all of the products that were purchased by the customer.
+  Next being the store that had recorded the customer with their orders made, this can vary with how many times a randomized customer were to go to the store.
+  And the corporation that had a list of all of the stores within the customers that went to purchase items.
+
+When creating the csv file, which was the goal of the project, it had to be taken into account that a 
+randomized time --> storeid --> customerid --> orderid --> name of the product --> and the price of 
+product to fully keep track of each random customer that would make a purchase in the store which would
+keep record of the purchases for the next project.

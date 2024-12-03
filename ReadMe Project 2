@@ -10,3 +10,5 @@ The project consists of the following:
     A visualization is used to display the outlook by frequency of the top ranking largest buying customers
     Within this set of ranking customers, a top-n list of the purchased products are listed, in this case it was top 10 to showcase the common items bought by customers.
     Using a categorical approach of the above ranking customers, a visualization was formatted to display the top 5 combinations of purchased items.
+
+Overall the 
